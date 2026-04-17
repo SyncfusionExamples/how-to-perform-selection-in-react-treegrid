@@ -32,7 +32,7 @@ This repository provides concise, runnable examples showing how to enable and co
 ## Features
 
 - Demonstrates row selection modes
-- Shows single, multiple and toggle selection behaviors
+- Shows multiple and toggle selection behaviors
 - Includes checkbox selection examples
 - Illustrates selection-related APIs for programmatic control
 
