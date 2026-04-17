@@ -26,7 +26,7 @@ Before starting, ensure you have the following installed:
 Clone and set up the project:
 
 ```
-git clone https://github.com/your-org/how-to-perform-selection-in-react-treegrid.git
+git clone https://github.com/your-org/how-to-perform-selection-in-react-treegrid
 cd how-to-perform-selection-in-react-treegrid
 npm install
 ```
