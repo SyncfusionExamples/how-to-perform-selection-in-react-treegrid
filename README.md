@@ -1,37 +1,51 @@
 # How to perform selection in React TreeGrid
 
-Repository Description: This sample demonstrates various selection modes and programmatic selection APIs for the Syncfusion React TreeGrid component.
+## Repository Description
 
+This sample demonstrates various selection modes and programmatic selection APIs for the Syncfusion React TreeGrid component.
+
+## Overview
 A quick-start project that helps you to perform selection in a TreeGrid with different types and modes. This project contains example code to perform checkbox selection, toggle selection, and demonstrates a few selection-related APIs that can be used to control selection programmatically.
 
-Documentation: https://ej2.syncfusion.com/react/documentation/treegrid/selection/
-
-Online examples: https://ej2.syncfusion.com/react/demos/#/material/treegrid/selection
+## Features
+- Demonstrates row selection modes
+- Shows multiple and toggle selection behaviors
+- Includes checkbox selection examples
+- Illustrates selection-related APIs for programmatic control
 
 ## Project prerequisites
 
-Make sure you have recent versions of Node.js and a code editor such as Visual Studio Code installed. The project targets a standard Create React App / React + TypeScript environment used by typical Syncfusion React samples.
+Before starting, ensure you have the following installed:
+- **Node.js**: Latest stable version
+- **Visual Studio Code**: Latest version recommended
+- **npm**: Node Package Manager (included with Node.js)
+- Basic knowledge of React and JavaScript
 
-## How to run this application?
+## Installation
 
-To run this application, you need to clone the `how-to-perform-selection-in-react-treegrid` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using `npm install` command and run your project using the `npm start` command.
-
-Example commands:
+Clone and set up the project:
 
 ```
 git clone https://github.com/your-org/how-to-perform-selection-in-react-treegrid.git
 cd how-to-perform-selection-in-react-treegrid
 npm install
+```
+## Running the Application
+ 
+Start the development server:
+ 
+```
 npm start
 ```
+ 
+The application will open in your default browser. Any changes you make to the source files will automatically reload the application.
+ 
+## Examples
+Explore Syncfusion EJ2 TreeGrid Selection examples:
 
-## Project Overview
+https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/selection
 
-This repository provides concise, runnable examples showing how to enable and configure selection in the Syncfusion TreeGrid for React. It focuses on demonstrating the typical selection scenarios developers need: multiple selection mode, checkbox selection, toggle selection behavior, and calling selection APIs from application code.
+https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/selectionapi
 
-## Features
+https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/checkbox-selection
 
-- Demonstrates row selection modes
-- Shows multiple and toggle selection behaviors
-- Includes checkbox selection examples
-- Illustrates selection-related APIs for programmatic control
