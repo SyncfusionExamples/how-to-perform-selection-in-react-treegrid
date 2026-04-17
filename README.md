@@ -27,18 +27,16 @@ npm start
 
 ## Project Overview
 
-This repository provides concise, runnable examples showing how to enable and configure selection in the Syncfusion TreeGrid for React. It focuses on demonstrating the typical selection scenarios developers need: single and multiple selection modes, checkbox selection, toggle selection behavior, and calling selection APIs from application code.
+This repository provides concise, runnable examples showing how to enable and configure selection in the Syncfusion TreeGrid for React. It focuses on demonstrating the typical selection scenarios developers need: multiple selection mode, checkbox selection, toggle selection behavior, and calling selection APIs from application code.
 
 ## Features
 
-- Demonstrates row and cell selection modes
+- Demonstrates row selection modes
 - Shows single, multiple and toggle selection behaviors
 - Includes checkbox selection examples
 - Illustrates selection-related APIs for programmatic control
 
-## Usage
 
-Open the example that matches the selection behavior you want to try, then run the app and interact with the TreeGrid. Review the code to see which props and API calls are used to enable each selection type.
 
 
 
