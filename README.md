@@ -49,3 +49,7 @@ https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/selectionapi
 
 https://ej2.syncfusion.com/react/demos/#/fluent2/treegrid/checkbox-selection
 
+## Documentation
+ 
+For detailed information and configuration options:
+https://ej2.syncfusion.com/react/documentation/treegrid/selection/selection
